@@ -46,6 +46,7 @@
 
 <p>
     <a href="#"><img alt="Pop! OS" src="https://img.shields.io/badge/Kalilinux-48B9C7?logo=kalilinux&logoColor=white"></a>
+    <a href="#"><img alt="Pop! OS" src="https://img.shields.io/badge/windows10-5800FF.svg?logo=windows&logoColor=white"></a>
      <a href="#"><img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white"></a>  
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
