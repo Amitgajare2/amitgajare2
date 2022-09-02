@@ -62,4 +62,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amitgajare2&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Amitgajare2&show_icons&theme=dracula)
 
-  
+---
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amitgajare2&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact">
