@@ -49,7 +49,7 @@
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-00C7B7.svg?logo=netlify&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white">
+<!--   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white"> -->
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
 </p>
 
