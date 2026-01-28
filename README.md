@@ -77,10 +77,15 @@ I enjoy coding late nights with anime aesthetics and lo-fi vibes ✨
 
 ---
 
-## 🐍 Contribution Snake
+## 💬 Random Dev Quote
 
-<img src="https://raw.githubusercontent.com/Amitgajare2/Amitgajare2/output/github-contribution-grid-snake.svg" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
+---
+
+## 📌 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amitgajare2&theme=github_dark" />
 
 ---
 
